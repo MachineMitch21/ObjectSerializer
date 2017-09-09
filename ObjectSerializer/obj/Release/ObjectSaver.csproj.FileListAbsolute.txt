@@ -1,0 +1,4 @@
+C:\Users\mitch\documents\visual studio 2015\Projects\ObjectSerializer\ObjectSerializer\bin\Release\ObjectSerializer.dll
+C:\Users\mitch\documents\visual studio 2015\Projects\ObjectSerializer\ObjectSerializer\bin\Release\ObjectSerializer.pdb
+C:\Users\mitch\documents\visual studio 2015\Projects\ObjectSerializer\ObjectSerializer\obj\Release\ObjectSerializer.dll
+C:\Users\mitch\documents\visual studio 2015\Projects\ObjectSerializer\ObjectSerializer\obj\Release\ObjectSerializer.pdb

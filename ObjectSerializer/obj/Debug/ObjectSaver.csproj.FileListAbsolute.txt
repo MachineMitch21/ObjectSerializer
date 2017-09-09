@@ -1,0 +1,5 @@
+c:\users\mitch\documents\visual studio 2015\Projects\ObjectSerializer\ObjectSerializer\bin\Debug\ObjectSerializer.dll
+c:\users\mitch\documents\visual studio 2015\Projects\ObjectSerializer\ObjectSerializer\bin\Debug\ObjectSerializer.pdb
+c:\users\mitch\documents\visual studio 2015\Projects\ObjectSerializer\ObjectSerializer\obj\Debug\ObjectSaver.csprojResolveAssemblyReference.cache
+c:\users\mitch\documents\visual studio 2015\Projects\ObjectSerializer\ObjectSerializer\obj\Debug\ObjectSerializer.dll
+c:\users\mitch\documents\visual studio 2015\Projects\ObjectSerializer\ObjectSerializer\obj\Debug\ObjectSerializer.pdb
